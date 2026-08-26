@@ -1,3 +1,10 @@
+/*
+NOME: calcularIMC.cpp
+AUTOR: Isa Vasconcelos
+DATA: 25/08/2026
+DESCRICAO: Programa para calcular o IMC em funcao
+*/
+
 #include <stdio.h>
 
 //Seção de importação
